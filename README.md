@@ -6,10 +6,9 @@ Skilled in **SQL, Python, Power BI, Excel, and PostgreSQL** with hands-on experi
 Dedicated to continuous learning and leveraging analytical skills to solve real-world problems through data-driven solutions.
 
  ## 🌐 Connect With Me
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/your-handle)  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-zakir-213732349/)
+ [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/your-handle)  
+ 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white)
@@ -17,7 +16,6 @@ Dedicated to continuous learning and leveraging analytical skills to solve real-
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
  
-
 ## 🧠 DATA ANALYTICS
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
