@@ -6,7 +6,7 @@ Skilled in **SQL, Python, Power BI, Excel, and PostgreSQL** with hands-on experi
 Dedicated to continuous learning and leveraging analytical skills to solve real-world problems through data-driven solutions.
 
  ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-213732349?/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/huzaifa-zakir-213732349)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/your-handle)  
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
